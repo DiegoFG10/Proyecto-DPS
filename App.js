@@ -1,24 +1,13 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import Main from './src/main';
+import React from 'react';
+import { View } from 'react-native';
+import LoginScreen from './LoginScreen'; // Asegúrate de que la ruta sea correcta
 
-export default function App() {
-
-
-
-  
+const App = () => {
   return (
-    <View style={styles.container}>
-      <Main></Main>
+    <View style={{ flex: 1 }}>
+      <LoginScreen />
     </View>
   );
-}
+};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App;
