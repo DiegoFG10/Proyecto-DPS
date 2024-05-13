@@ -1,4 +1,4 @@
-archivos aun en las branches para no arruinar el proyecto
+archivos en el branch "Diego" para ponerlo en el main hasta el final
 
 
 Marco José Mejía Tario MT172007 Diego Antonio Fuentes Guardado FG230381 Rene Emanuel Lopez Maldonado LM211126
