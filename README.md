@@ -1,5 +1,11 @@
 
-Marco José Mejía Tario MT172007 Diego Antonio Fuentes Guardado FG230381 Rene Emanuel Lopez Maldonado LM211126
+Marco José Mejía Tario MT172007
+
+Diego Antonio Fuentes Guardado FG230381 
+
+Rene Emanuel Lopez Maldonado LM211126
+
+
 
 enlace al avance del manual de usuario: https://www.canva.com/design/DAGFEhv076o/aCURnjxLptHnafMh5HJQ_Q/edit?utm_content=DAGFEhv076o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
